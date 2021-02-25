@@ -24,7 +24,7 @@ Features
 --------
 
 - Has daylight times for regions above the arctic cirlce, thus can tell when the day will start, end and how much daylight, if any, will be available for the group. 
-- Will give the day a random chance of rain, whicch if the temperature is cold enough will turn to snow. This will lower the temparature further.
+- Will give the day a random chance of rain, which if the temperature is cold enough will turn to snow. This will lower the temparature further.
 - Will simulate wind for a day through a random roll aswell, which can compound with precipitation to give storms and further decrese the average temp for the day.
 - Random temperature based on weather conditions and average temperature for the region on given date will also output.
 - All region types are based on Finnish weather and day/night cycles of the Lapland region. Thus precipitation is set to an average 25% year round.
